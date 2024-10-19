@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 ## Data Preparation
 
-We use [CLEAN](https://github.com/carrotsx/Resources/tree/main/Datasets/MSQA/CLEAN1.0) dataset, [CMQA](https://github.com/juyiming/CMQA) dataset, [MLQA](https://github.com/facebookresearch/MLQA) dataset, and [$\text{C}^3$](https://github.com/nlpdata/c3) dataset.
+We use [CLEAN](https://github.com/carrotsx/Resources/tree/main/Datasets/MSQA/CLEAN1.0) dataset, [CMQA](https://github.com/juyiming/CMQA) dataset, [MLQA](https://github.com/facebookresearch/MLQA) dataset, and [C3](https://github.com/nlpdata/c3) dataset.
 
 You can get it through their official website, or directly download the datasets in [here](https://drive.google.com/drive/folders/1zAiJM2G_hoc1G-sxt6lVoWb-VAF1UyYk?usp=drive_link), and put them under current folder.
 
