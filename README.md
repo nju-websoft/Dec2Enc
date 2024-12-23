@@ -1,6 +1,6 @@
 # Dec2Enc
 Code for **Transforming Decoder-Only Models into Encoder-Only Models with Improved
-Understanding Capabilities** (KBS).
+Understanding Capabilities** (Accepted by KBS).
 
 - We propose Dec2Enc, which transforms decoder-only models into encoder-only models by
 recovering bidirectional attention, thereby improving their understanding potential. 
