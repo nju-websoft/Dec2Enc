@@ -41,3 +41,21 @@ in seven languages compared to vanilla decoder-only models.
 ![table1](figures/table1.png)
 
 ![table2](figures/table2.png)
+
+
+## Citation
+Pleas cite our paper if it helps your work.
+```
+@article{HUANG2025112907,
+title = {Transforming decoder-only models into encoder-only models with improved understanding capabilities},
+journal = {Knowledge-Based Systems},
+volume = {309},
+pages = {112907},
+year = {2025},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2024.112907},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705124015417},
+author = {Zixian Huang and Xinwei Huang and Ao Wu and Xiaxia Wang and Gong Cheng}
+}
+```
+
